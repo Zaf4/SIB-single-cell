@@ -1,0 +1,7 @@
+.R*
+renv
+token
+course_data
+course_data.tar.gz
+.Rproj.user
+*.rds
